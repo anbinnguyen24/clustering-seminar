@@ -19,13 +19,13 @@ Gồm 5 file :
 
 + notebookclustering (1).ipynb  →  File Jupyter Notebook dùng để minh họa các thuật toán phân cụm được trình bày
 
-+ Clustering_Customer_Segmentation.ipynb →  Một ví dụ mở rộng áp dụng Clustering vào bài toán phân khúc khách hàng (không phù hợp yêu cầu của đề tài nhưng là nỗ lực nghiên cứu tìm hiểu của nhóm, mong thầy xem xét).
++ Clustering_Customer_Segmentation.ipynb →  Một ví dụ mở rộng áp dụng Clustering vào bài toán phân khúc khách hàng (không phù hợp yêu cầu của đề tài nhưng là nỗ lực nghiên cứu tìm hiểu của nhóm).
 
 + README.txt → Tập tin mô tả cấu trúc nội dung các file trong thư mục.
 
 + marketing_campaign.csv : file dataset của ví dụ về bài toán phân khúc khách hàng ( Clustering_Customer_Segmentation.ipynb ) 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Lưu ý: khi tải về, file powerpoint có thể gặp lỗi hiển thị nhẹ, thầy có thể xem bản đầy đủ trực tiếp trên Canva qua đường link sau: 
+Lưu ý: khi tải về, file powerpoint có thể gặp lỗi hiển thị nhẹ, có thể xem bản đầy đủ trực tiếp trên Canva qua đường link sau: 
 https://www.canva.com/design/DAGkAB1PoV0/QrFy4onujznshF15nObP-w/edit?utm_content=DAGkAB1PoV0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
