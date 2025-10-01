@@ -1,11 +1,19 @@
 # 📚 Seminar – Clustering (Nhóm 3122410294)
 
-## 👥 THÀNH VIÊN
+## Table of contents
+* [Danh sách thành viên nhóm](#-thành-viên)
+* [Đề tài seminar của nhóm](#-đề-tài-seminar)
+* [Cấu trúc thư mục](#-cấu-trúc-thư-mục)
+* [Lưu ý](#-lưu-ý)
 
-- `3122410004` – Nguyễn Văn An  
-- `3122410125` – Lê Khánh Hoàng  
-- `3122410294` – Lý Minh Phát  
-- `3122410247` – Lê Quốc Nam
+
+## 👥 THÀNH VIÊN
+| MSSV | Họ tên | Nhóm trưởng |
+|------|-----------------|------|
+| 3122410004 |  Nguyễn Văn An  | ✅ |
+| 3122410294 |  Lý Minh Phát  | ... |
+| 3122410125 |  Lê Khánh Hoàng  | ... |
+| 3122410247 |  Lê Quốc Nam  | ... |
 
 ---
 
@@ -41,3 +49,4 @@ Gồm 5 file:
 > Khi tải về, file PowerPoint có thể gặp lỗi hiển thị nhẹ.  
 > Bạn có thể xem bản đầy đủ trực tiếp trên Canva qua đường link sau:
 🔗 [Xem slide trên Canva](https://www.canva.com/design/DAGkAB1PoV0/QrFy4onujznshF15nObP-w/edit?utm_content=DAGkAB1PoV0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
