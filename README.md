@@ -24,7 +24,17 @@
 ---
 
 ## 📁 CẤU TRÚC THƯ MỤC
+project-name/
+├─ dataset/
+│  └─ marketing_campaign.csv
+├─ notebooks/
+│  ├─ Clustering_Customer_Segmentation.ipynb
+│  └─ notebook_clustering.ipynb
+├─ presentation/
+│  └─ Clustering.pptx
+└─ README.md
 
+# Mô tả
 Gồm 5 file:
 
 - 📊 `Clustering.pptx`  
@@ -49,4 +59,5 @@ Gồm 5 file:
 > Khi tải về, file PowerPoint có thể gặp lỗi hiển thị nhẹ.  
 > Bạn có thể xem bản đầy đủ trực tiếp trên Canva qua đường link sau:
 🔗 [Xem slide trên Canva](https://www.canva.com/design/DAGkAB1PoV0/QrFy4onujznshF15nObP-w/edit?utm_content=DAGkAB1PoV0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 
